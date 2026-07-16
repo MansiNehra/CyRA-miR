@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated models
+saved_models/
+
+# SHAP
+SHAP/
+
+# CatBoost
+catboost_info/
+
+# Generated files
+*.tiff
+*.pkl
+
+# Keep dataset
+!data/
+!data/*.csv
