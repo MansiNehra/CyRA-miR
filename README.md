@@ -4,15 +4,7 @@ Machine learning framework for predicting cyclophosphamide response in breast ca
 
 ## Project Overview
 
-This repository contains the complete machine learning workflow used for drug response prediction, including:
-
-- Data preprocessing
-- Feature selection
-- Nested cross-validation
-- Hyperparameter optimization
-- Stability analysis
-- Holdout evaluation
-- SHAP explainability
+This repository contains the complete machine learning workflow used for drug response prediction.
 
 ## Repository Structure
 
@@ -63,11 +55,3 @@ The pipeline generates:
 
 The repository contains the processed dataset used for model development.
 The original miRNA expression and clinical data were obtained from The Cancer Genome Atlas (TCGA) and processed prior to model training.
-
-## Author
-
-**Mansi Nehra**
-
-Department of Life Science
-
-National Institute of Technology Rourkela
